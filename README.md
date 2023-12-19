@@ -5,3 +5,5 @@ PCBs smaller than 100x100mm can often be made cheaply, so I tried configuring a 
 
 - Small size within 100x100mm<BR>
 - Uses cheap SMD parts, they are as large as possible, making the soldering process painless.<BR>
+- Short size economy db15 connectors can be used.<BR>
+
