@@ -1,6 +1,0 @@
-*.bin
-*.kicad_prl
-*.o
-.vscode
-build
-fp-info-cache
