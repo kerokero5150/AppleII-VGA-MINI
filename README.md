@@ -17,7 +17,7 @@ PCBs smaller than 100x100mm can often be made cheaply, so I tried configuring a 
 
 We have GERBER to make these two types of PCBs, but the pin out of the pico board is different for each, so we are still preparing. However, if you are making your own, I think another fork of [Briel's version](https://github.com/retrotink/Apple-II-VGA) is easier to assemble. We refer to his version for the circuit configuration of the buffer transceivers.<BR><BR>
 
-<img src="Pictures/IMG_8895.jpeg" width="300px"><BR><BR>
+<img src="Pictures/IMG_8895.jpeg" width="500px"><BR><BR>
 It will be sold 50 USD in our store. *Early February 2024<BR>
 https://en.infinityproducts.co.jp/shop-1
 
