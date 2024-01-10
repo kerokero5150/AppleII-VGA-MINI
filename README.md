@@ -1,5 +1,5 @@
 # A][ VGA MINI Card
-My board concept is to provide inexpensive graphics cards to enthusiasts who don't like making their own, so I use a lot of SMD parts that people who like soldering their own don't like. We have prepared two types: Purple and Black.
+My board concept is to provide inexpensive graphics cards to enthusiasts, don't making their own, so I use a lot of SMD parts that people who like soldering their own don't like. We have prepared two types: Purple and Black.
 PCBs smaller than 100x100mm can often be made cheaply, so I tried configuring a small board with SMD parts. It's still in the prototyping stage.<BR><BR>
 <img src="Pictures/IMG_8926.jpeg" width="520px"><BR><BR>
 
