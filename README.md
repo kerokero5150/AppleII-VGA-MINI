@@ -4,7 +4,7 @@ PCBs smaller than 100x100mm can often be made cheaply, so I tried configuring a 
 <img src="Pictures/IMG_8926.jpeg" width="520px"><BR><BR>
 
 - Small size within 100x100mm<BR>
-- Uses cheap SMD parts, they are as large as possible, by maximizing the 1.27 pitch, solder defects are less likely to occur at the factory.<BR>
+- Uses cheap SMD parts, they are as large as possible, by maximizing the 1.27 pitch ICs, solder defects are less likely to occur at the factory.<BR>
 - Short size db15 connectors can be used.<BR>
 - Used clone Pi Pico boards, black and purple they look good.<BR>
 - Equipped with a 3.3V regulator that generates less heat.
