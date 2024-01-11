@@ -18,7 +18,7 @@ PCBs smaller than 100x100mm can often be made cheaply, so I tried configuring a 
 ### Gerber and soldering work
 
 We have [GERBER](Gerber_GH) to make this card, Raspberry Pi Pico board matches with genuine pinouts.　[Here](A2VGA_BLK_BOM.xlsx) is BOM. Gerber's silkscreen has been modified. This is because the artwork is copyrighted by Drake. Furthermore, since we are not only amateur developers but also have to run our own store, we have a CC BY-NC-SA 4.0 license. You can create it for free if you want to use it.<BR><BR>
-If SMD soldering is difficult your own, I think another fork of [Briel's version](https://github.com/retrotink/Apple-II-VGA) is easier to assemble. We refer to his version for the circuit configuration of the buffer transceivers.<BR><BR>
+If SMD soldering is difficult your own, we think another fork of [Briel's version](https://github.com/retrotink/Apple-II-VGA) is easier to assemble. We refer to his version for the circuit configuration of the buffer transceivers.<BR><BR>
 
 ### install the firmeware
 
