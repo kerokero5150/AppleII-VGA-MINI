@@ -22,7 +22,7 @@ If SMD soldering is difficult your own, we think another fork of [Briel's versio
 
 ### install the firmeware
 
-This project is fork version of markadev's AppleII VGA, You can set it up by following the article [here](https://github.com/markadev/AppleII-VGA/tree/main/pico).<BR><BR>
+This project is fork version of markadev's AppleII VGA, You can set it up by following the article [here](https://github.com/markadev/AppleII-VGA/tree/main/pico).<BR><BR>Of course, you can use the .uf2 files published by the designers of these forks, including Briel... as they are.<BR>
 
 
 ### Sold at Kero's Mac Mods Store *Early February 2024
