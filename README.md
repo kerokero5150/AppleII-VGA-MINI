@@ -1,6 +1,6 @@
 # A][ VGA MINI Card
 My board concept is to provide inexpensive graphics cards to enthusiasts, don't making their own, so I use a lot of SMD parts that people who like soldering their own don't like. We have prepared two types: Purple and Black.
-PCBs smaller than 100x100mm can often be made cheaply, so I tried configuring a small board with SMD parts. We are proud that it has excellent cost performance and has a cool and luxurious feel. It's still in the prototyping stage.<BR><BR>
+Although we named it "mini", it's actually not extremely small, but since PSB companies can make it cheaply within 100x100mm, I made it small accordingly. We are proud that it has excellent cost performance and has a cool and luxurious feel. Purple card is still in the prototyping stage.<BR><BR>
 <img src="Pictures/IMG_8926.jpeg" width="520px"><BR><BR>
 
 - Small size within 100x100mm<BR>
