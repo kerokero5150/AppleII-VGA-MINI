@@ -25,9 +25,9 @@ If SMD soldering is difficult your own, we think another fork of [Briel's versio
 This project is fork version of markadev's AppleII VGA, You can set it up by following the article [here](https://github.com/markadev/AppleII-VGA/tree/main/pico).<BR><BR>
 
 
-
+### Sold at Kero's Mac Mods Store *Early February 2024
 <img src="Pictures/IMG_8895.jpeg" width="500px"><BR><BR>
-It will be sold 50 USD in our store. *Early February 2024<BR>
+It will be sold 50 USD in our store. <BR>
 https://en.infinityproducts.co.jp/shop-1
 
 
