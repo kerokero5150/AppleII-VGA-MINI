@@ -3,7 +3,7 @@ My board concept is to provide inexpensive graphics cards to enthusiasts, don't 
 Although we named it "mini", it's actually not extremely small, but since PCB companies can make it cheaply within 100x100mm, I made it small accordingly. We are proud that it has excellent cost performance and has a cool and luxurious feel. Purple card is still in the prototyping stage, because this pinout is different from regular Pico boards. <BR><BR>
 <img src="Pictures/IMG_8926.jpeg" width="520px"><BR><BR>
 
-- Small size within 100x100mm<BR>
+- Small size within 100x100mm, This is the size for which the PCB company's economy rates apply.<BR>
 - Uses cheap SMD parts, they are as large as possible, by maximizing the 1.27 pitch ICs, solder defects are less likely to occur at the factory.<BR>
 - Short size db15 connectors can be used.<BR>
 - Used clone Pi Pico boards, black and purple they look good.<BR>
