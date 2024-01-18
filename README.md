@@ -6,7 +6,7 @@ Although we named it "mini", it's actually not extremely small, but since PCB co
 - Small size within 100x100mm, This is the size for which the PCB company's economy rates apply.<BR>
 - Uses cheap SMD parts, they are as large as possible, by maximizing the 1.27 pitch ICs, solder defects are less likely to occur at the factory.<BR>
 - Short size db15 connectors can be used.<BR>
-- Used clone Pi Pico boards, black and purple they look good.<BR>
+- Used clone Pi Pico boards, black and purple they look badass...<BR>
 - Equipped with a 3.3V regulator that generates less heat.<BR>
 - Fun artwork by Drake.
 
