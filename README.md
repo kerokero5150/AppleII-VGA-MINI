@@ -34,8 +34,7 @@ https://en.infinityproducts.co.jp/shop-1
 
 ## License
 
-This AII VGA MINI Card hardware is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).<BR>
+This AII VGA MINI Card hardware is licensed under a CC BY-NC-SA 4.0
 Ⓒ 2023 Kay Koba, Kero's mac Mods, All rights reserved.<BR>
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)<BR><BR>
 Since we are running a [store](https://en.infinityproducts.co.jp/shop-1), we would like to handle the sales under our control. Our designs are open source and free for enthusiasts to create their own. However, sales are not allowed. Thank you for your understanding.
