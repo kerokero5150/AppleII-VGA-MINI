@@ -34,8 +34,7 @@ https://en.infinityproducts.co.jp/shop-1
 
 ## License
 
-This AII VGA MINI Card hardware is licensed under a CC BY-NC-SA 4.0
-Ⓒ 2023 Kay Koba, Kero's mac Mods, All rights reserved.<BR>
+This AII VGA MINI Card hardware is licensed under a CC BY-NC-SA 4.0<BR>
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)<BR><BR>
 Since we are running a [store](https://en.infinityproducts.co.jp/shop-1), we would like to handle the sales under our control. Our designs are open source and free for enthusiasts to create their own. However, sales are not allowed. Thank you for your understanding.
 
@@ -46,10 +45,10 @@ The original AppleII-VGA has an [MIT](https://github.com/markadev/AppleII-VGA/bl
 ## Thanks to the original developer of this card
 
 We were a latecomer to this card design, but many designers had already created forked cards.<BR><BR>
-A big thanks to Mark Aikens (Aka, markadev), the original inventor. And thank you to all the like-minded Geeks!
+A big thanks to Mark Aikens (Aka, markadev), the original inventor. And thank you to all the like-minded Geeks!<BR><BR>
 
 
-
+Ⓒ 2023 Kay Koba, Kero's mac Mods, All rights reserved.<BR>
 
 
 
