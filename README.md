@@ -19,7 +19,7 @@ Although we named it "mini", it's actually not extremely small, but since PCB co
 
 ### Gerber and soldering work
 
-We have [Gerber](Gerber_GH) to make this Black VGA card, Raspberry Pi Pico board matches with genuine pinouts.　[Here](A2VGA_BLK_BOM.xlsx) is BOM. Gerber's silkscreen has been modified. This is because the artwork is copyrighted by Drake. Furthermore, since we are not only enthusiast developer but also have to run our own store, we have a CC BY-NC-SA 4.0 license. You can create it for free if you want to use it.<BR><BR>
+We have [Gerber](Gerber_GH) to make this Black VGA card, Raspberry Pi Pico board matches with genuine pinouts.　[Here](A2VGA_BLK_BOM.xlsx) is BOM. Gerber's silkscreen has been modified. This is because the artwork is copyrighted by Drake. Furthermore, since we are not only enthusiast developer but also have to run our own store, we have a CC BY-NC-SA 4.0 license. You can create it for free if you want to use it, but for personal use only.<BR><BR>
 If SMD soldering is difficult your own, we think another fork of [Briel's version](https://github.com/retrotink/Apple-II-VGA) is easier to assemble. We refering to their version for the circuit configuration of the buffer transceivers.<BR><BR>
 
 ### Install the firmeware, Replace is also easy
