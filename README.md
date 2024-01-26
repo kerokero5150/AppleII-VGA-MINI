@@ -22,14 +22,13 @@ Although we named it "mini", it's actually not extremely small, but since PCB co
 We have [Gerber](Gerber_GH) to make this Black VGA card, Raspberry Pi Pico board matches with genuine pinouts.　[Here](A2VGA_BLK_BOM.xlsx) is BOM. Gerber's silkscreen has been modified. This is because the artwork is copyrighted by Drake. Furthermore, since we are not only amateur developers but also have to run our own store, we have a CC BY-NC-SA 4.0 license. You can create it for free if you want to use it.<BR><BR>
 If SMD soldering is difficult your own, we think another fork of [Briel's version](https://github.com/retrotink/Apple-II-VGA) is easier to assemble. We refering to their version for the circuit configuration of the buffer transceivers.<BR><BR>
 
-### install the firmeware
+### Install the firmeware, Replace is also easy
 
-This project is fork version of markadev's AppleII VGA, You can set it up by following the article [here](https://github.com/markadev/AppleII-VGA/tree/main/pico).<BR><BR>Of course, you can use the .uf2 files published by the designers of these forks, including Briel... as they are.<BR>
+This project is fork version of markadev's AppleII VGA, You can set it up by following the article [here](https://github.com/markadev/AppleII-VGA/tree/main/pico).<BR><BR>
 
 Now, A2 VGA team has new firmware [V1.2](https://github.com/markadev/AppleII-VGA/releases/tag/v1.2.0), since it has already been compiled, it can be treated as a ".uf2" file.<BR><BR>
 
 If you want to change the Apple IIe firmware to IIPlus or vice versa, replacing firmware is easy. Hold down the "BOOT" switch on the PICO board on this card and connect a new computer via USB Type-C, it will appear as a removable media folder on your desktop. Drag and drop any .uf2 file here. The folder that appeared will be unmounted. Flashing is now complete. Available on Windows and Mac.
-
 
 ### Sold at Kero's Mac Mods Store *Early February 2024
 <img src="Pictures/IMG_8895.jpeg" width="500px"><BR><BR>
