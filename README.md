@@ -24,11 +24,12 @@ If SMD soldering is difficult your own, we think another fork of [Briel's versio
 
 ### Install the firmeware, Replace is also easy
 
-This project is fork version of markadev's AppleII VGA, You can set it up by following the article [here](https://github.com/markadev/AppleII-VGA/tree/main/pico).<BR><BR>
 
 Now, A2 VGA team has new firmware [V1.2](https://github.com/markadev/AppleII-VGA/releases/tag/v1.2.0), since it has already been compiled, it can be treated as a ".uf2" file.<BR><BR>
 
-If you want to change the Apple IIe firmware to IIPlus or vice versa, replacing firmware is easy. Hold down the "BOOT" switch on the PICO board on this card and connect a new computer via USB Type-C, it will appear as a removable media folder on your desktop. Drag and drop any .uf2 file here. The folder that appeared will be unmounted. Flashing is now complete. Available on Windows and Mac.
+If you want to change the Apple IIe firmware to IIPlus or vice versa, replacing firmware is easy. Hold down the "BOOT" switch on the PICO board on this card and connect a new computer via USB Type-C, it will appear as a removable media folder on your desktop. Drag and drop any .uf2 file here. The folder that appeared will be unmounted. Flashing is now complete. Available on Windows and Mac.<BR><BR>
+
+If you want to compile the program yourself, you can set it up by following the article [here](https://github.com/markadev/AppleII-VGA/tree/main/pico).
 
 ### Sold at Kero's Mac Mods Store *Early February 2024
 <img src="Pictures/IMG_8895.jpeg" width="500px"><BR><BR>
